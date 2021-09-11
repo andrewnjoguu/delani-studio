@@ -25,3 +25,23 @@ body{
     font-size: 18px;
     font-style: italic;
 }
+#contact {
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    height: 12cm;
+    
+}
+#black {
+    background-image: url(../assets/portfolio/work4.jpg);
+    height: 3cm;
+}
+#ontario{
+    background-image: url(../assets/portfolio/work3.jpg);
+    height: 3cm;
+
+}
+#Pyramids{
+    background-image: url(../assets/portfolio/work2.jpg);
+    height: 3cm;
+
+    
+}
