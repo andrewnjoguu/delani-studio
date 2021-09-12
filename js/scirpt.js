@@ -81,7 +81,10 @@ $(document).ready(function () {
       $("#GR").hide();
   })
 
-
+$("#submit").click(function (e) {
+    e.preventDefault();
+    alert("We thank you for your response. Have a lovely day!")
+})
 
 });
 
