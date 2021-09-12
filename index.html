@@ -127,20 +127,26 @@
      
      
      
-      <div class="container" id="contact">
+    <div id="contact">
       <h1>CONTACT US</h1>
-      
-      <div class="mb-3"> 
-        <label for="exampleFormControlInput1" class="form-label">name</label>
-        <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="name">
-      </div>
-      <div class="mb-3">
-        <label for="exampleFormControlTextarea1" class="form-label">Your message here</label>
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-        <input type="submit" value="submit" name="submit here">
-      </div>
-      </div>
-    </form>
+      <form class="container" id="message">
+        <div class="row align-items-start">
+          <div class="col-6">
+            <label for="exampleFormControlInput1" class="form-label">Name</label>
+          <input type="text" class="form-control bg-transparent" id="exampleFormControlInput1" placeholder="name@example.com">
+          </div>
+          <div class="col-6">
+            <label for="exampleFormControlInput1" class="form-label">Email address</label>
+          <input type="email" class="form-control bg-transparent" id="exampleFormControlInput1" placeholder="name@example.com">
+          </div>
+          <div class="col-12">
+            <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+          <textarea class="form-control bg-transparent" id="exampleFormControlTextarea1" rows="3"></textarea>
+          </div>
+        </div>
+        <input type="submit" value="Submit" name="submit">
+      </form>
+    </div>
         <div class="container" id="social">
           <img src="assets/social_icons/twitter.png" alt="">
           <img src="assets/social_icons/dribble.png" alt="">
