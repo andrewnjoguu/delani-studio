@@ -32,41 +32,42 @@ body{
 }
 #black {
     background-image: url(../assets/portfolio/work4.jpg);
-    height: 3cm;
+    
 }
 #ontario{
     background-image: url(../assets/portfolio/work3.jpg);
-    height: 3cm;
+    
 
 }
 #Pyramids{
     background-image: url(../assets/portfolio/work2.jpg);
-    height: 3cm;
+    
 }
 #JimCarry{
     background-image: url(../assets/portfolio/work1.jpg);
-    height: 3cm;
+    
 }
 #NiceDay{
     background-image: url(../assets/portfolio/work5.jpg);
-    height: 3cm;
+    
 }
 #Calculator{
     background-image: url(../assets/portfolio/work6.jpg);
-    height: 3cm;
 }
 #burned{
     background-image: url(../assets/portfolio/work7.jpg);
-    height: 3cm;
 }
 #gr{
     background-image: url(../assets/portfolio/work8.jpg);
-    height: 3cm;
 }
 .portfolio{
     text-align: center;
-    
+    width: 300px;
+    height: 300px;
 }
 #social{
     align-items: center
+}
+.hidden{
+    display: none;
 }
