@@ -64,10 +64,23 @@ body{
     text-align: center;
     width: 300px;
     height: 300px;
+    font-size: 50px;
+    
 }
 #social{
     align-items: center
 }
 .hidden{
     display: none;
+}
+
+#black p,
+#ontario p,
+#Pyramids p,
+#JimCarry p,
+#NiceDay p,
+#Calculator p,
+#burned p,
+#gr p {
+    display : none;
 }
