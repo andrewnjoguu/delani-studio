@@ -7,3 +7,4 @@ The following are the technologies used in creatingthis website
     CSS
 ### License Information
 The following project belongs to Andrew Koikai with the help of Moringa School Nairobi. Any act of copyright without permission shall be treated as an illegal crime activity.
+https://andrewnjoguu.github.io/delani-studio/gi
