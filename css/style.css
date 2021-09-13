@@ -36,6 +36,7 @@ body{
 }
 #ontario{
     background-image: url(../assets/portfolio/work3.jpg);
+    background-position: center;
     
 
 }
@@ -56,14 +57,16 @@ body{
 }
 #burned{
     background-image: url(../assets/portfolio/work7.jpg);
+    background-position: center;
 }
 #gr{
     background-image: url(../assets/portfolio/work8.jpg);
+    background-position: center;
 }
 .portfolio{
     text-align: center;
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     font-size: 40px;
     margin: auto;
     margin-bottom: 20px;
