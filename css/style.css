@@ -50,6 +50,7 @@ body{
 }
 #NiceDay{
     background-image: url(../assets/portfolio/work5.jpg);
+    background-position: center;
     
 }
 #Calculator{
